@@ -17,7 +17,7 @@ Requirement to run the Program
 # How To Run
 1. Clone this repository : `https://github.com/yosalx/15-Puzzle`
 2. Install all the package in the requirement : `pip/pip3 install <package_name>`
-3. Open the terminal and change the path to folder src : `cd 15-Puzzle/src pada terminal ` or just `cd src` if the terminal is already at the folder this repo was cloned
+3. Open the terminal and change the path to folder src : `cd 15-Puzzle/src` at the terminal  or just `cd src` if the terminal is already at the folder this repo was cloned
 4. Run `py main.py` or `python main.py` or `python3 main.py` at the terminal
 5. The program is now running
 6. P.S. If method 2 for the puzzle initial state (randomize matrix) take too long to finish, either kill the terminal and try again or use the first method

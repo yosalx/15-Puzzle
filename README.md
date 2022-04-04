@@ -9,6 +9,16 @@ This python program was made to fulfill the third small task (Tucil 3) for IF221
 |----------|--------------------------|
 | 13520141 | Yoseph Alexander Siregar |
 
+# Directory
+```sh
+15-Puzzle
+├── src                       # includes source code
+│   ├── fifteenPuzzleSolver   # Program consisting of breach and bound algorithm to solve 15-Puzzle
+│   ├── main                  # Main Program
+├── test                      # Includes test cases
+├── doc                       # Include task report
+```
+
 # Requirement
 Requirement to run the Program
 * Python Environment
